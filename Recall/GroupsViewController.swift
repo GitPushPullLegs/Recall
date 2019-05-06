@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  GroupsViewController.swift
 //  Recall
 //
 //  Created by Jose Aguilar on 5/5/19.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class GroupsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .white
     }
-
-
 }
-
